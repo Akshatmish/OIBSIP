@@ -1,0 +1,50 @@
+ body {
+     background-image: url(https://www.thestatesman.com/wp-content/uploads/2020/03/satya-nadella-ED.jpg);
+     background-size: cover;
+
+
+     background-repeat: no-repeat;
+     background-position: calc(20%);
+
+ }
+
+ .content {
+     font-size: 32px;
+     font-family: serif;
+     max-width: 522px;
+     margin: 7px auto;
+     font-style: initial;
+     color: coral;
+ }
+
+ .content h1 {
+     font-style: italic;
+ }
+
+ .about_section p {
+     font-size: 25px;
+     color: rgb(238, 209, 218);
+     margin-top: 90px;
+ }
+
+ .about_section h2 {
+     font-size: 55px;
+     color: rgb(227, 235, 225);
+ }
+
+ .first,
+ .second,
+ .third,
+ .fourth {
+     font-size: 50px;
+     color: rgb(171, 239, 171);
+     font-style: italic;
+     margin-bottom: 20px;
+     margin-top: 20px;
+ }
+
+ .details {
+     font-size: 30px;
+     font-family: serif;
+     color: rgb(228, 230, 228);
+ }
